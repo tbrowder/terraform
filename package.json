@@ -51,7 +51,7 @@
     "lodash": "^4.17.15",
     "lru-cache": "4.1.1",
     "marked": "^0.7.0",
-    "node-sass": "4.12.*",
+    "node-sass": "7.0.*",
     "postcss": "6.0.14",
     "stylus": "0.54.5",
     "through": "2.3.8"
